@@ -1,5 +1,5 @@
 # say087
-My personal repository
+About me
 
 This portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes.
 This portfolio also contains my Achivements, skills, and certificates. It is updated on regular basis.
