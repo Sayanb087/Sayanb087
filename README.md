@@ -55,7 +55,7 @@ Tools: Python, NLP, Twitter API, TF-IDF, Random ForestBuilt a real-time NLP pipe
 
 <img src="https://th.bing.com/th/id/OIP.psQPruhcoUs4bWWkXD4fGwAAAA?w=298&h=180&c=7&r=0&o=5&pid=1.7" alt="omnicron_image" width="300" style="margin-right: 20px;">
 
-### 📌 2. [Glasses Detection Using CNN](https://github.com/Sayanb087/Sentiment-Analysis-on-Omnicron-Variant-from-Tweets)
+### 📌 2. [Glasses Detection Using CNN](https://github.com/Sayanb087/Glasses_Detection)
 
 Tools: TensorFlow/Keras, OpenCV, Image AugmentationDeveloped a CNN model to classify images of people with/without glasses. Custom-labeled dataset, used augmentation and achieved 52.94% validation accuracy.
 
