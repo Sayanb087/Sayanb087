@@ -63,7 +63,7 @@ A full-stack web application to manage a grocery store. It allows you to **add p
 - **Backend:** Python (Flask, MySQL Connector, Flask-CORS)  
 - **Database:** MySQL  
 
-<img src="https://th.bing.com/th/id/OIP.lvq88SLgkipkR3-9cOUD7QHaDt?w=330&h=175&c=7&r=0&o=7&pid=1.7&rm=3" alt="omnicron_image" width="300" style="margin-right: 20px;">
+<img src="https://www.sourcecodester.com/sites/default/files/images/oretnom23/mvogms_admin_dashboard.png" alt="omnicron_image" width="300" style="margin-right: 20px;">
 
 
 ### 📌 3. [Glasses Detection Using CNN](https://github.com/Sayanb087/Glasses_Detection)
