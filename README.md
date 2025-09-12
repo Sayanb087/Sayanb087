@@ -55,42 +55,53 @@ Tools: Python, NLP, Twitter API, TF-IDF, Random ForestBuilt a real-time NLP pipe
 
 <img src="https://th.bing.com/th/id/OIP.psQPruhcoUs4bWWkXD4fGwAAAA?w=298&h=180&c=7&r=0&o=5&pid=1.7" alt="omnicron_image" width="300" style="margin-right: 20px;">
 
-### 📌 2. [Glasses Detection Using CNN](https://github.com/Sayanb087/Glasses_Detection)
+### 📌 2. [Grocery Store Management System](https://github.com/Sayanb087/GROCERY_APP)
+
+A full-stack web application to manage a grocery store. It allows you to **add products, create customer orders, calculate totals, and store order details** with a connected MySQL database.
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript (jQuery, AJAX), Bootstrap  
+- **Backend:** Python (Flask, MySQL Connector, Flask-CORS)  
+- **Database:** MySQL  
+
+<img src="https://th.bing.com/th/id/OIP.lvq88SLgkipkR3-9cOUD7QHaDt?w=330&h=175&c=7&r=0&o=7&pid=1.7&rm=3" alt="omnicron_image" width="300" style="margin-right: 20px;">
+
+
+### 📌 3. [Glasses Detection Using CNN](https://github.com/Sayanb087/Glasses_Detection)
 
 Tools: TensorFlow/Keras, OpenCV, Image AugmentationDeveloped a CNN model to classify images of people with/without glasses. Custom-labeled dataset, used augmentation and achieved 52.94% validation accuracy.
 
 <img src="https://intellectualtakeout.org/wp-content/uploads/2022/03/retina.png" alt="omnicron_image" width="300" style="margin-right: 20px;">
 
 
-### 📌 3. [Heart Disease Prediction Using Neural Networks](https://github.com/Sayanb087/Heart-Disease-Prediction)
+### 📌 4. [Heart Disease Prediction Using Neural Networks](https://github.com/Sayanb087/Heart-Disease-Prediction)
 
 Tools: Keras, Scikit-learn, EDA, Feature EngineeringBuilt a fully connected deep learning model to predict likelihood of heart disease using health metrics. Achieved an AUC of 0.75.
 
 <img src="https://as1.ftcdn.net/v2/jpg/07/65/82/14/1000_F_765821483_ylchHYMSMDlzMBC8h8JwfF6ElrpZfXoh.jpg" alt="omnicron_image" width="300" style="margin-right: 20px;">
 
 
-### 📌 4. [Pulsar Star Classification with SVM](https://github.com/Sayanb087/Predict-Pulsar-Star-)
+### 📌 5. [Pulsar Star Classification with SVM](https://github.com/Sayanb087/Predict-Pulsar-Star-)
 
 Tools: Scikit-learn, GridSearchCV, NormalizationUsed SVM to detect real pulsars from telescope noise with 98.12% accuracy. Employed feature selection and hyperparameter tuning.
 
 <img src="https://i.ytimg.com/vi/lYtSvWR-mVE/hqdefault.jpg" alt="omnicron_image" width="300" style="margin-right: 20px;">
 
 
-### 📌 5. [Credit Card Fraud Detection](https://github.com/Sayanb087/Detect-Credit-Card-Fraud-)
+### 📌 6. [Credit Card Fraud Detection](https://github.com/Sayanb087/Detect-Credit-Card-Fraud-)
 
 Tools: Logistic Regression, StandardScaler, Imbalanced Dataset HandlingBuilt a binary classifier on a skewed dataset. Achieved 99.91% accuracy for non-fraud cases, and 61.22% for fraud, indicating potential for SMOTE and ensemble improvements.
 
 <img src="https://tse2.mm.bing.net/th/id/OIP.R3iBv-p13HhC69DPHJYC2QHaEE?pid=ImgDet&w=182&h=99&c=7&o=7&rm=3" alt="omnicron_image" width="300" style="margin-right: 20px;">
 
 
-### 📌 6. [BlueBull Height Enhancer Study — Inferential Statistics](https://github.com/Sayanb087/-Inferential-Statistics-)
+### 📌 7. [BlueBull Height Enhancer Study — Inferential Statistics](https://github.com/Sayanb087/-Inferential-Statistics-)
 
 Tools: SciPy, t-tests, P-Values, VisualizationStatistical study of 2000 children to determine whether BlueBull drink boosts height. Results showed statistical significance in youth ≤19 years.
 
 <img src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c750d6d-f41a-48f0-a2d3-fe0958c262e4.__CR0,0,970,600_PT0_SX970_V1___.png" alt="omnicron_image" width="300" style="margin-right: 20px;">
 
 
-### 📌 7. [Air Writing Recognition Using CNN](https://github.com/Sayanb087/my_collage_project)
+### 📌 8. [Air Writing Recognition Using CNN](https://github.com/Sayanb087/my_collage_project)
 
 Tools: OpenCV, Grayscale Processing, CNNHand gesture-based recognition system trained to identify digits and letters via hand motion. Achieved ~90% accuracy.
 
